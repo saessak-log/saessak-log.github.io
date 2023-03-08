@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c8b34ee.css",
+    "main.js": "/static/js/main.bcb9cc87.js",
+    "static/media/DoHyeon-Regular.ttf": "/static/media/DoHyeon-Regular.33a15385076163ccf1b8.ttf",
+    "index.html": "/index.html",
+    "main.6c8b34ee.css.map": "/static/css/main.6c8b34ee.css.map",
+    "main.bcb9cc87.js.map": "/static/js/main.bcb9cc87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c8b34ee.css",
+    "static/js/main.bcb9cc87.js"
+  ]
+}
